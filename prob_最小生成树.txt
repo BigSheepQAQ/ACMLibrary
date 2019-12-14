@@ -1,0 +1,15 @@
+POJ 1258 Agri-Net(简单练习题)
+POJ 3625 Building Roads
+POJ 2485 Highways 
+POJ 1861 Network
+POJ 2395 Out of Hay 
+POJ 2377 Bad Cowtractors
+POJ 2421 Constructing Roads 
+POJ 1679  The Unique MST
+POJ 1751 Highways
+POJ 1251 Jungle Roads
+POJ 1789 Truck History
+POJ 1287 Networking
+POJ 2728 Desert King(最优比率生成树) prim+二分 （难题）
+POJ 2349（最小生成树）
+题意：有两种不同的通信技术，有卫星通信的两个城市之间可以任意联络，但用无线电通信的城市只能和距离不超过D的城市联系。无线电的能力越高（即传输距离D越大），花费就越大。已知无线电的数目m，让求最小的D。

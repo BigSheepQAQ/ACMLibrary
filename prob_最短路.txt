@@ -1,0 +1,21 @@
+Dijkstra:
+POJ 2387 Til the Cows Come Home
+POJ 2253 Frogger
+POJ 1797 Heavy Transportation
+POJ 3268 Silver Cow Party
+
+Bellman-Ford:
+POJ 1860 Currency Exchange
+POJ 3259 Wormholes（寻找负权回路）
+POJ 1847 Tram
+
+Floyd:
+POJ 1502 MPI Maelstrom
+POJ 3660 传递闭包
+POJ 2240 Arbitrage
+POJ 1125 Stockbroker Grapevine  
+POJ 3615 Cow Hurdles
+POJ 3264 Balance Lineup
+
+SPFA:
+POJ 1511 Invitation Cards

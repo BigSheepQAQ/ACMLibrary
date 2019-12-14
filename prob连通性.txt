@@ -1,0 +1,18 @@
+poj 1094 拓扑排序
+poj 2367 拓扑排序 
+tyvj 1936 强联通分量+拓扑排序 
+
+poj 3177 tarjan求桥/割边
+poj 3352 无向图的割和桥以及双连通分量
+poj 3694 Network (求桥,边双连通分支缩点,lca)
+
+hdoj 
+强连通:
+1269   迷宫城堡                        判断是否是一个强连通
+2767 Proving Equivalences      至少加几条边让整个图变成强连通
+3836  Equivalent Sets               至少加几条边让整个图变成强连通
+1827    Summer Holiday           传递的最小费用
+3072    Intelligence System      传递的最小费用
+3861 The King’s Problem         强连通+二分匹配
+3639 Hawk-and-Chicken          强连通缩点 + 树形dp（累加子节点的总权值）
+3594  Cactus                            仙人掌图
